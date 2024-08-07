@@ -1,3 +1,0 @@
-This is a python code.
-I am writting a program to retrun a data string which is of even length
-Hello I am a file
